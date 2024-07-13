@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "versionSystem": "4.8.5",
-  "nomeEmpresa": "PLW Design",
+  "nomeEmpresa": "AppBot | Launcher & Co.",
   "private": true,
   "dependencies": {
     "@date-io/date-fns": "^2.14.0",
