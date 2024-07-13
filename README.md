@@ -60,10 +60,10 @@ As portas em uso são 22, 80, 443, 3000, 4000, 5000, 5432 e 6379.
 ## 02 . Link do GitHub
 
 * Github - Instalador
-https://github.com/Gil980/instalador.git
+https://github.com/gilderlanlima/instalador.git
 
 * Código
-https://github.com/Gil980/whaticket-saas.git
+https://github.com/gilderlanlima/whaticket-saas.git
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -102,7 +102,7 @@ reboot
 
 cd /home
 ls
-sudo apt install -y git && git clone https://github.com/Gil980/instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/gilderlanlima/instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
@@ -116,7 +116,7 @@ Insira senha para o usuário Deploy e Banco de Dados (Não utilizar caracteres e
 [[senhadeploy]]
 
 Insira o link do GITHUB do seu Whaticket que deseja instalar:
-https://github.com/Gil980/whaticket-saas.git
+https://github.com/gilderlanlima/whaticket-saas.git
 
 Informe um nome para a Instancia/Empresa que será instalada (Não utilizar espaços, caracteres especiais ou letras maiúsculas, utilize somente letras minúsculas;):
 [[nomedoapp]]
@@ -371,7 +371,7 @@ Baixe o instalador:
 
 cd /home
 ls
-sudo apt install -y git && git clone https://github.com/Gil980/instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/gilderlanlima/instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
 
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
